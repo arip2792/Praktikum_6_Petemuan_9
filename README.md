@@ -119,3 +119,6 @@ Format Output:
 #
 
 D. HASIL RUN CODE
+
+![image](https://github.com/user-attachments/assets/6d3f074b-2ec5-46c6-9532-8176ed3febd8)
+
