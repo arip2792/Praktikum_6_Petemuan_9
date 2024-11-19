@@ -2,37 +2,34 @@
 
 A. ALGORITMA PROGRAM
 
-1. Mulai Program
-Tampilkan pesan awal jika diperlukan.
-Inisialisasi List:
+1.Mulai Program:
 
-Buat list kosong data_mahasiswa untuk menyimpan data mahasiswa.
-Perulangan untuk Input Data:
+Siapkan tempat (list) untuk menyimpan data mahasiswa.
 
-Ulangi langkah berikut hingga pengguna memutuskan untuk berhenti:
-Minta pengguna untuk memasukkan:
-Nama mahasiswa.
-NIM mahasiswa.
-Nilai Tugas.
-Nilai UTS.
-Nilai UAS.
-Hitung Nilai Akhir menggunakan rumus:
-scss
-Copy code
-Nilai Akhir = (Tugas * 30%) + (UTS * 35%) + (UAS * 35%)
-Simpan data mahasiswa (Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS, dan Nilai Akhir) dalam bentuk dictionary ke dalam list data_mahasiswa.
-Tanyakan kepada pengguna:
-Apakah ingin menambah data lagi? (y/t):
-Jika "y", ulangi proses input data.
-Jika "t", keluar dari perulangan.
-Tampilkan Data Mahasiswa:
+2.Proses Input Data:
 
-Cetak daftar data mahasiswa dalam format tabel:
-Kolom: Nama, NIM, Nilai Tugas, Nilai UTS, Nilai UAS, dan Nilai Akhir.
-Akhiri Program:
+Tampilkan pertanyaan untuk memasukkan:
+>Nama mahasiswa.
+>NIM mahasiswa.
+>Nilai Tugas, UTS, dan UAS.
 
-Tampilkan pesan bahwa program telah selesai.
+Hitung nilai akhir mahasiswa dengan rumus:
+>Nilai Akhir = (Tugas * 30%) + (UTS * 35%) + (UAS * 35%)
 
+Simpan semua data (Nama, NIM, Tugas, UTS, UAS, Nilai Akhir) ke dalam daftar.
+
+3.Tanya kepada pengguna:
+
+Tanyakan apakah ingin menambahkan data mahasiswa lagi:
+>Jika "Ya", ulangi langkah Proses Input Data.
+>Jika "Tidak", lanjutkan ke langkah berikutnya.
+
+4.Tampilkan Data:
+Cetak semua data mahasiswa dalam bentuk tabel:
+Kolom: Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
+
+5. Akhiri Program:
+Tampilkan pesan selesai, dan program berakhir.
 
 B. FLOWCHART
 
