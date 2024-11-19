@@ -43,7 +43,8 @@ B. FLOWCHART
 
 C. CODE PROGRAM DAN PENJELASAN
 
-![image](https://github.com/user-attachments/assets/35bd4224-7965-44de-bed7-9c079df0e61b)
+![image](https://github.com/user-attachments/assets/362f4d50-de38-40cd-b81e-bce3f4e43f23)
+
 
 PENJELASAN :
 
