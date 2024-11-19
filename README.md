@@ -47,6 +47,24 @@ C. CODE PROGRAM DAN PENJELASAN
 
 PENJELASAN :
 
+1. Fungsi untuk Menghitung Nilai Akhir
+
+          def hitung_nilai_akhir(tugas, uts, uas):
+    return (tugas * 0.3) + (uts * 0.35) + (uas * 0.35)
+
+   
+3. List untuk Menyimpan Data
+
+4. Perulangan untuk Input Data
+
+5. Hitung Nilai Akhir dan Simpan Data
+
+6. Tanya Pengguna Untuk Menambahkan Data
+
+7. Header Tabel
+
+8. Tampilkan Total Data Mahasiswa 
+
 
 
 
