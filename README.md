@@ -42,5 +42,8 @@ B. FLOWCHART
 
 C. CODE PRGRAM DAN PENJELASAN
 
+![image](https://github.com/user-attachments/assets/e59bc389-ea3a-44d5-a854-1d5de6294ed3)
+
+
 
 D. HASIL RUN CODE
