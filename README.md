@@ -51,35 +51,59 @@ PENJELASAN :
 
 ![image](https://github.com/user-attachments/assets/6d2ce4bf-b172-47a9-bf22-2addc25e746d)
 
+Fungsi: Menghitung nilai akhir berdasarkan bobot:
+Tugas: 30%.
+UTS: 35%.
+UAS: 35%.
 
-   
 3. List untuk Menyimpan Data
 
 ![image](https://github.com/user-attachments/assets/cd58aefe-a753-4861-a50d-e9747c5aca6e)
+
+List Kosong: Tempat menyimpan data mahasiswa dalam bentuk dictionary
 
 5. Perulangan untuk Input Data
 
 ![image](https://github.com/user-attachments/assets/6fa581e4-e850-4eed-b757-7e7f68670131)
 
+while True: Perulangan berjalan terus sampai pengguna memutuskan berhenti.
+Input Nama dan NIM: Pengguna memasukkan nama dan NIM sebagai string.
+Input Nilai: Nilai tugas, UTS, dan UAS dimasukkan sebagai angka desimal (float).
 
 7. Hitung Nilai Akhir dan Simpan Data
 
 ![image](https://github.com/user-attachments/assets/ce567aa2-1fb4-474f-95c5-88a795495c23)
 
+Hitung Nilai Akhir: Fungsi hitung_nilai_akhir dipanggil untuk menghitung nilai akhir.
+Simpan Data: Data nama, NIM, nilai tugas, UTS, UAS, dan nilai akhir dimasukkan ke dalam list data_mahasiswa sebagai dictionary
+
 9. Tanya Pengguna Untuk Menambahkan Data
 
 ![image](https://github.com/user-attachments/assets/cc544768-9acd-497b-833d-8709f3436831)
 
+Input Pilihan: Pengguna diminta memilih apakah ingin menambah data lagi.
+>"y": Ulangi perulangan.
+>"t": Keluar dari perulangan dengan perintah break.
 
 11. Header Tabel
 
 ![image](https://github.com/user-attachments/assets/d2f05424-e4f9-478e-ad6b-7b2a08e901f3)
 
+Header Tabel:
+Menampilkan kolom No, Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
+Garis horizontal menggunakan karakter "=" sepanjang 95 karakter.
 
 13. Tampilkan Total Data Mahasiswa 
 
 ![image](https://github.com/user-attachments/assets/a8afb68a-c267-4c7f-bac2-c732d11ed244)
 
+Enumerasi: Menggunakan enumerate untuk memberikan nomor urut (dimulai dari 1).
+Format Output:
+No: Nomor urut.
+Nama: Rata kiri dengan lebar 20 karakter.
+NIM: Rata kiri dengan lebar 15 karakter.
+Nilai: Ditampilkan dengan 2 angka desimal.
 
+#
 
 D. HASIL RUN CODE
