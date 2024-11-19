@@ -37,7 +37,8 @@ Kolom: Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
 
 B. FLOWCHART
 
-![image](https://github.com/user-attachments/assets/d17df072-a310-428b-983a-4ab113234dad)
+![image](https://github.com/user-attachments/assets/a5ff6a4f-77c3-4095-8407-223958ec6004)
+
 
 C. CODE PRGRAM DAN PENJELASAN
 
