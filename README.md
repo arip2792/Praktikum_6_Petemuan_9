@@ -121,5 +121,6 @@ Format Output:
 
 D. HASIL RUN CODE
 
-![image](https://github.com/user-attachments/assets/6d3f074b-2ec5-46c6-9532-8176ed3febd8)
+![image](https://github.com/user-attachments/assets/a9a84190-1659-4513-8d2a-da86ade92e07)
+
 
