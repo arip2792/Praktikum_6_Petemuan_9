@@ -67,7 +67,9 @@ List Kosong: Tempat menyimpan data mahasiswa dalam bentuk dictionary
 ![image](https://github.com/user-attachments/assets/6fa581e4-e850-4eed-b757-7e7f68670131)
 
 while True: Perulangan berjalan terus sampai pengguna memutuskan berhenti.
+
 Input Nama dan NIM: Pengguna memasukkan nama dan NIM sebagai string.
+
 Input Nilai: Nilai tugas, UTS, dan UAS dimasukkan sebagai angka desimal (float).
 
 4. Hitung Nilai Akhir dan Simpan Data
@@ -75,6 +77,7 @@ Input Nilai: Nilai tugas, UTS, dan UAS dimasukkan sebagai angka desimal (float).
 ![image](https://github.com/user-attachments/assets/ce567aa2-1fb4-474f-95c5-88a795495c23)
 
 Hitung Nilai Akhir: Fungsi hitung_nilai_akhir dipanggil untuk menghitung nilai akhir.
+
 Simpan Data: Data nama, NIM, nilai tugas, UTS, UAS, dan nilai akhir dimasukkan ke dalam list data_mahasiswa sebagai dictionary
 
 5. Tanya Pengguna Untuk Menambahkan Data
