@@ -41,11 +41,12 @@ B. FLOWCHART
 
 #
 
-C. CODE PRGRAM DAN PENJELASAN
+C. CODE PROGRAM DAN PENJELASAN
 
-![image](https://github.com/user-attachments/assets/e59bc389-ea3a-44d5-a854-1d5de6294ed3)
+![image](https://github.com/user-attachments/assets/35bd4224-7965-44de-bed7-9c079df0e61b)
 
 PENJELASAN :
+
 
 
 
