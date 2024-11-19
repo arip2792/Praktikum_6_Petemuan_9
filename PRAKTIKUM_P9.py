@@ -1,4 +1,3 @@
-
 print("==================== ARIEF ADJI ====================")
 
 def hitung_nilai_akhir(tugas, uts, uas):
