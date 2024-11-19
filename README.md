@@ -39,10 +39,13 @@ B. FLOWCHART
 
 ![image](https://github.com/user-attachments/assets/a5ff6a4f-77c3-4095-8407-223958ec6004)
 
+#
 
 C. CODE PRGRAM DAN PENJELASAN
 
 ![image](https://github.com/user-attachments/assets/e59bc389-ea3a-44d5-a854-1d5de6294ed3)
+
+PENJELASAN :
 
 
 
