@@ -25,10 +25,11 @@ Tanyakan apakah ingin menambahkan data mahasiswa lagi:
 >Jika "Tidak", lanjutkan ke langkah berikutnya.
 
 4. Tampilkan Data:
-Cetak semua data mahasiswa dalam bentuk tabel:
+   
+>Cetak semua data mahasiswa dalam bentuk tabel:
 Kolom: Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
 
-5. Akhiri Program:
+6. Akhiri Program:
 Tampilkan pesan selesai, dan program berakhir.
 
 B. FLOWCHART
