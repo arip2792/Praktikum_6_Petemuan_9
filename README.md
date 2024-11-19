@@ -85,7 +85,9 @@ Simpan Data: Data nama, NIM, nilai tugas, UTS, UAS, dan nilai akhir dimasukkan k
 ![image](https://github.com/user-attachments/assets/cc544768-9acd-497b-833d-8709f3436831)
 
 Input Pilihan: Pengguna diminta memilih apakah ingin menambah data lagi.
+
 >"y": Ulangi perulangan.
+
 >"t": Keluar dari perulangan dengan perintah break.
 
 6. Header Tabel
@@ -93,19 +95,26 @@ Input Pilihan: Pengguna diminta memilih apakah ingin menambah data lagi.
 ![image](https://github.com/user-attachments/assets/d2f05424-e4f9-478e-ad6b-7b2a08e901f3)
 
 Header Tabel:
-Menampilkan kolom No, Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
-Garis horizontal menggunakan karakter "=" sepanjang 95 karakter.
+
+>Menampilkan kolom No, Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
+
+>Garis horizontal menggunakan karakter "=" sepanjang 95 karakter.
 
 7. Tampilkan Total Data Mahasiswa 
 
 ![image](https://github.com/user-attachments/assets/a8afb68a-c267-4c7f-bac2-c732d11ed244)
 
 Enumerasi: Menggunakan enumerate untuk memberikan nomor urut (dimulai dari 1).
+
 Format Output:
-No: Nomor urut.
-Nama: Rata kiri dengan lebar 20 karakter.
-NIM: Rata kiri dengan lebar 15 karakter.
-Nilai: Ditampilkan dengan 2 angka desimal.
+
+>No: Nomor urut.
+
+>Nama: Rata kiri dengan lebar 20 karakter.
+
+>NIM: Rata kiri dengan lebar 15 karakter.
+
+>Nilai: Ditampilkan dengan 2 angka desimal.
 
 #
 
