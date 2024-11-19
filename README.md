@@ -30,7 +30,8 @@ Tanyakan apakah ingin menambahkan data mahasiswa lagi:
 Kolom: Nama, NIM, Tugas, UTS, UAS, dan Nilai Akhir.
 
 6. Akhiri Program:
-Tampilkan pesan selesai, dan program berakhir.
+   
+>Tampilkan pesan selesai, dan program berakhir.
 
 B. FLOWCHART
 
