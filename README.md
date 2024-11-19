@@ -4,7 +4,7 @@ A. ALGORITMA PROGRAM
 
 1.Mulai Program:
 
-Siapkan tempat (list) untuk menyimpan data mahasiswa.
+>Siapkan tempat (list) untuk menyimpan data mahasiswa.
 
 2.Proses Input Data:
 
